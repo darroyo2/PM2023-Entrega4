@@ -49,7 +49,9 @@ ionic integrations enable capacitor
 
 ### Agregar Gradle al PATH de Windows
 
-1. Descarga Gradle desde el sitio oficial y extrae la carpeta comprimida.
+1. Descarga Gradle desde el sitio oficial y extrae la carpeta comprimida. 
+**Gradle:**
+   - [Gradle - Sitio Oficial](https://gradle.org/)
 
 2. Copia la ruta de la carpeta "bin" de Gradle.
 
@@ -66,7 +68,10 @@ ionic integrations enable capacitor
    ```bash
    setx /m JAVA_HOME "Ruta_jdk"
    ```
-
+   En caso no tengas Java Development Kit descárgalo del sitio oficial:
+   **OpenJDK (Java Development Kit):**
+   - [OpenJDK - Sitio Oficial](https://openjdk.java.net/)
+   
 3. Comprueba que la variable se haya creado correctamente:
 
    ```bash
@@ -84,4 +89,5 @@ ionic cap run android
 ## 7. Instalación de Gradle for Java en Visual Studio Code
 
 Si trabajas con Visual Studio Code, instala la extensión "Gradle for Java" para facilitar el desarrollo y la gestión de dependencias Gradle.
+
 
