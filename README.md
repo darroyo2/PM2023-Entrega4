@@ -1,4 +1,3 @@
-# PM2023-Entrega4
 # Guía de Instalación y Configuración de Aplicaciones Ionic con Capacitor
 
 ## 1. Instalación de Ionic CLI
@@ -90,4 +89,30 @@ ionic cap run android
 
 Si trabajas con Visual Studio Code, instala la extensión "Gradle for Java" para facilitar el desarrollo y la gestión de dependencias Gradle.
 
+# Guía de Instalación de Visual Studio Code
 
+## 1. Descargar e Instalar Visual Studio Code
+
+Dirígete al [sitio oficial de Visual Studio Code](https://code.visualstudio.com/) y descarga la versión.
+
+## 2. Instalación de Visual Studio Code
+
+Ejecuta el archivo de instalación descargado. Durante la instalación, asegúrate de marcar la opción "Agregar a la variable de entorno PATH" para facilitar el acceso a VS Code desde la línea de comandos.
+
+# Guía de Instalación de Android Studio
+
+## 1. Descargar e Instalar Android Studio
+
+Dirígete al [sitio oficial de Android Studio](https://developer.android.com/studio) y descarga la última versión.
+
+## 2. Instalación de Android Studio
+
+Ejecuta el archivo de instalación descargado y sigue el asistente de instalación. Durante la instalación, asegúrate de seleccionar "Android Virtual Device" (AVD) para utilizar emuladores.
+
+## 3. Configuración de Android Studio
+
+Abre Android Studio y sigue el asistente de configuración inicial. Esto incluirá la instalación de componentes esenciales, configuración del SDK de Android y la descarga de cualquier actualización disponible.
+
+## 4. Crear un Dispositivo Virtual
+
+Abre Android Studio, accede a "AVD Manager" y crea un nuevo dispositivo virtual.
