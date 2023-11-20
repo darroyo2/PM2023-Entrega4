@@ -1,4 +1,4 @@
-#ENTREGA 4
+# ENTREGA 4
 
 ## Guía de Instalación y Configuración de Aplicaciones Ionic con Capacitor
 
