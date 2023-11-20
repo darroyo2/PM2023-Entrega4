@@ -2,6 +2,8 @@
 
 ## Guía de Instalación y Configuración de Aplicaciones Ionic con Capacitor
 
+Ionic es un marco de desarrollo de código abierto para la creación de aplicaciones móviles y web utilizando tecnologías web estándar como HTML, CSS y JavaScript/TypeScript. Ionic es una opción popular para el desarrollo de aplicaciones móviles y web, especialmente para aquellos que desean aprovechar las tecnologías web existentes y desplegar aplicaciones en múltiples plataformas de manera eficiente.
+
 ## 1. Instalación de Ionic CLI
 
 Para comenzar, abre la línea de comandos y ejecuta el siguiente comando para instalar globalmente Ionic CLI:
@@ -93,6 +95,8 @@ Si trabajas con Visual Studio Code, instala la extensión "Gradle for Java" para
 
 # Guía de Instalación de Visual Studio Code
 
+Visual Studio Code (VS Code) es un entorno de desarrollo integrado (IDE) gratuito y de código abierto desarrollado por Microsoft. Visual Studio Code es un editor de código ligero pero potente que se ha vuelto muy popular entre los desarrolladores debido a su flexibilidad, extensibilidad y amplio soporte para diversos lenguajes de programación.
+
 ## 1. Descargar e Instalar Visual Studio Code
 
 Dirígete al [sitio oficial de Visual Studio Code](https://code.visualstudio.com/) y descarga la versión.
@@ -102,6 +106,8 @@ Dirígete al [sitio oficial de Visual Studio Code](https://code.visualstudio.com
 Ejecuta el archivo de instalación descargado. Durante la instalación, asegúrate de marcar la opción "Agregar a la variable de entorno PATH" para facilitar el acceso a VS Code desde la línea de comandos.
 
 # Guía de Instalación de Android Studio
+
+Android Studio es el entorno de desarrollo oficial para la creación de aplicaciones Android. Android Studio es una herramienta integral que brinda a los desarrolladores todas las herramientas necesarias para diseñar, desarrollar, depurar y optimizar aplicaciones Android de manera eficiente.
 
 ## 1. Descargar e Instalar Android Studio
 
@@ -166,9 +172,10 @@ La eficiencia se relaciona con el rendimiento y la optimización de los recursos
 
 4. **Mostrar Ejercicios:**
    - *Descripción:* Este caso de uso proporciona a los alumnos la capacidad de ver todos los ejercicios disponibles en la aplicación. Puede mostrar una lista completa de ejercicios con sus respectivas imágenes.
-   - 
+     
 ![login](https://github.com/darroyo2/PM2023-Entrega4/blob/main/todos%20los%20ejercicios.png)
 
 5. **Mostrar Integrantes:**
    - *Descripción:* Este caso de uso permite a los usuarios ver la lista de integrantes del grupo de desarrollo. Puede mostrar información básica sobre cada integrante, como nombre y código. Se mostrará dicho diálogo mediante un botón en el menú superior
-![login]()
+     
+![login](https://github.com/darroyo2/PM2023-Entrega4/blob/main/integrantes.png)
