@@ -155,27 +155,27 @@ La eficiencia se relaciona con el rendimiento y la optimización de los recursos
 
 ## Descripción de casos de uso
 
-1. **Acceder al sistema (login):**
+### 1. **Acceder al sistema (login):**
    - *Descripción:* Este caso de uso permite a los usuarios autenticarse en la aplicación. Los usuarios ingresarán su nombre de usuario y contraseña para acceder a sus cuentas personales. Si la autenticación es exitosa, se les dará acceso a las funciones y datos relacionados con su perfil.
 
 ![login](https://github.com/darroyo2/PM2023-Entrega4/blob/main/login.png)
 
-2. **Cambiar contraseña:**
+### 2. **Cambiar contraseña:**
    - *Descripción:* Este caso de uso permite a los usuarios cambiar su contraseña actual por una nueva. Los usuarios deberán proporcionar su DNI y su correo electrónico y luego ingresar la nueva contraseña. Después, el sistema enviará un mensaje notificando al usuario sobre el éxito o cualquier problema relacionado con el cambio de contraseña.
 
-![login](https://github.com/darroyo2/PM2023-Entrega4/blob/main/cambiar%20contrase%C3%B1a.png)
+![cambiar contraseña](https://github.com/darroyo2/PM2023-Entrega4/blob/main/cambiar%20contrase%C3%B1a.png)
 
-3. **Mostrar Rutina:**
+### 3. **Mostrar Rutina:**
    - *Descripción:* Este caso de uso está dirigido a los alumnos y les permite visualizar la rutina de ejercicios asignada. La aplicación mostrará la lista de ejercicios con sus imágenes respectivas.
 
-![login](https://github.com/darroyo2/PM2023-Entrega4/blob/main/rutina.png)
+![rutina](https://github.com/darroyo2/PM2023-Entrega4/blob/main/rutina.png)
 
-4. **Mostrar Ejercicios:**
+### 4. **Mostrar Ejercicios:**
    - *Descripción:* Este caso de uso proporciona a los alumnos la capacidad de ver todos los ejercicios disponibles en la aplicación. Puede mostrar una lista completa de ejercicios con sus respectivas imágenes.
      
-![login](https://github.com/darroyo2/PM2023-Entrega4/blob/main/todos%20los%20ejercicios.png)
+![ejercicios](https://github.com/darroyo2/PM2023-Entrega4/blob/main/todos%20los%20ejercicios.png)
 
-5. **Mostrar Integrantes:**
-   - *Descripción:* Este caso de uso permite a los usuarios ver la lista de integrantes del grupo de desarrollo. Puede mostrar información básica sobre cada integrante, como nombre y código. Se mostrará dicho diálogo mediante un botón en el menú superior
+### 5. **Mostrar Integrantes:**
+   - *Descripción:* Este caso de uso permite a los usuarios ver la lista de integrantes del grupo de desarrollo. Puede mostrar información básica sobre cada integrante, como nombre y código. Se mostrará dicho diálogo mediante un botón en el menú superior.
      
-![login](https://github.com/darroyo2/PM2023-Entrega4/blob/main/integrantes.png)
+![integrantes](https://github.com/darroyo2/PM2023-Entrega4/blob/main/integrantes.png)
