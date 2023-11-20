@@ -149,6 +149,9 @@ La usabilidad de la aplicación se centra en una interfaz intuitiva y fácil de 
 ### 6. Eficiencia
 La eficiencia se logra mediante el uso de tecnologías como Firebase Analytics para evaluar el rendimiento de las características implementadas. Además, Replit, al utilizar Node.js en el backend, contribuye a un procesamiento eficiente de datos y tiempos de carga rápidos. La eficiencia en el uso de los recursos del sistema es fundamental para garantizar un rendimiento óptimo en la aplicación móvil del gimnasio.
 
+### 7. Compatibilidad
+La compatibilidad se refiere a la capacidad de la applicacion para funcionar en diferentes dispositivos, sistemas operativos y versiones. En este caso, la aplicacion es capaz de ejecutarse exitosamente en diferentes dispositivos que cuentes con las versiones mas recientes del sistema operativo Android.
+
 ## Diagrama de casos de uso
 
 ![Diagrama caso uso](https://github.com/darroyo2/PM2023-Entrega4/blob/main/Casos%20de%20Uso.jpg)
