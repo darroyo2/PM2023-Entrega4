@@ -131,23 +131,23 @@ Abre Android Studio, accede a "AVD Manager" y crea un nuevo dispositivo virtual.
 
 ## Requisitos no Funcionales
 
-#### 1. Disponibilidad
-La disponibilidad se refiere a la capacidad del sistema para estar siempre accesible y operativo. En el contexto del proyecto, esto implica que los usuarios deben poder acceder a la plataforma en cualquier momento, sin importar la hora.
+### 1. Disponibilidad
+En términos de disponibilidad, la aplicación móvil se beneficiará de la arquitectura distribuida y la implementación en Replit para el backend. Replit utiliza Node.js para la lógica del servidor, asegurando que la plataforma esté siempre accesible. La capacidad de Replit para gestionar múltiples instancias de forma automática proporciona una mayor disponibilidad, permitiendo a los usuarios acceder a la plataforma en cualquier momento del día.
 
-#### 2. Seguridad
-La seguridad es fundamental para proteger la información confidencial de los usuarios y garantizar la resistencia del sistema ante posibles amenazas como ataques cibernéticos. En la aplicación, nos centramos en la protección de datos personales y aseguramos la integridad de la plataforma contra posibles vulnerabilidades.
+### 2. Seguridad
+La seguridad es una prioridad ya que se busca almacenar de manera segura la información confidencial de los usuarios. Firebase Crashlytics puede proporcionar informes detallados en caso de fallos, permitiendo una respuesta rápida a posibles amenazas y garantizando la integridad del sistema. Además, la lógica de seguridad en el backend implementada en Node.js en Replit contribuirá a la protección contra posibles vulnerabilidades y ataques cibernéticos.
 
-#### 3. Calidad
-La calidad se refiere a la eficacia, eficiencia y satisfacción general del usuario con la aplicación. En el contexto de un gimnasio, esto implica que la aplicación debe ofrecer funcionalidades útiles y precisas, proporcionando una experiencia de usuario agradable. Aseguramos que las características cumplan con las expectativas y requisitos de los usuarios.
+### 3. Calidad
+La calidad de la aplicación se garantiza mediante la integración de Firebase Analytics, que proporciona información detallada sobre el uso de la aplicación. Esta información puede utilizarse para evaluar la eficacia y eficiencia de las características implementadas. A través de la recopilación de datos, se asegura que la aplicación cumpla con las expectativas y requisitos de los usuarios, proporcionando una experiencia de usuario satisfactoria en el contexto de un gimnasio.
 
-#### 4. Escalabilidad
-La escalabilidad se refiere a la capacidad del sistema para manejar un aumento en la carga de trabajo o el número de usuarios sin degradación del rendimiento. En una aplicación de gimnasio, la escalabilidad garantiza que la plataforma pueda crecer para admitir un mayor número de usuarios, ya que la demanda puede aumentar con el tiempo.
+### 4. Escalabilidad
+La escalabilidad del sistema está respaldada por Replit, que permite manejar un aumento en la carga de trabajo. La capacidad de Replit para escalar automáticamente en función de la demanda asegura que la aplicación pueda admitir un mayor número de usuarios sin degradación del rendimiento. Esto es esencial para una aplicación de gimnasio, donde la demanda puede aumentar con el tiempo.
 
-#### 5. Usabilidad
-La usabilidad se centra en la facilidad de uso y la experiencia del usuario al interactuar con la aplicación. En el caso de la aplicación, garantizamos una interfaz intuitiva y fácil de navegar, facilitando a los usuarios la realización de tareas como programar entrenamientos o acceder a información relevante de manera sencilla.
+### 5. Usabilidad
+La usabilidad de la aplicación se centra en una interfaz intuitiva y fácil de navegar. La combinación de Firebase Analytics y Firebase Crashlytics también proporciona información valiosa para mejorar continuamente la usabilidad de la aplicación, asegurando que los usuarios puedan programar entrenamientos y acceder a la información de manera sencilla.
 
-#### 6. Eficiencia
-La eficiencia se relaciona con el rendimiento y la optimización de los recursos del sistema. En el proyecto, la eficiencia implica un tiempo de carga rápido, procesamiento eficiente de datos y el uso adecuado de la capacidad de almacenamiento para garantizar un rendimiento óptimo.
+### 6. Eficiencia
+La eficiencia se logra mediante el uso de tecnologías como Firebase Analytics para evaluar el rendimiento de las características implementadas. Además, Replit, al utilizar Node.js en el backend, contribuye a un procesamiento eficiente de datos y tiempos de carga rápidos. La eficiencia en el uso de los recursos del sistema es fundamental para garantizar un rendimiento óptimo en la aplicación móvil del gimnasio.
 
 ## Diagrama de casos de uso
 
