@@ -111,6 +111,11 @@ Ejecuta el archivo de instalación descargado y sigue el asistente de instalaci�
 
 ## 3. Configuración de Android Studio
 
+Abre Android Studio y sigue el asistente de configuración inicial. Esto incluirá la instalación de componentes esenciales, configuración del SDK de Android y la descarga de cualquier actualización disponible.
+
+## 4. Crear un Dispositivo Virtual
+
+Abre Android Studio, accede a "AVD Manager" y crea un nuevo dispositivo virtual.
 ## Requisitos no Funcionales
 
 #### 1. Disponibilidad
@@ -131,8 +136,4 @@ La usabilidad se centra en la facilidad de uso y la experiencia del usuario al i
 #### 6. Eficiencia
 La eficiencia se relaciona con el rendimiento y la optimización de los recursos del sistema. En el proyecto, la eficiencia implica un tiempo de carga rápido, procesamiento eficiente de datos y el uso adecuado de la capacidad de almacenamiento para garantizar un rendimiento óptimo.
 
-Abre Android Studio y sigue el asistente de configuración inicial. Esto incluirá la instalación de componentes esenciales, configuración del SDK de Android y la descarga de cualquier actualización disponible.
 
-## 4. Crear un Dispositivo Virtual
-
-Abre Android Studio, accede a "AVD Manager" y crea un nuevo dispositivo virtual.
