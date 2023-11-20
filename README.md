@@ -127,7 +127,7 @@ Abre Android Studio, accede a "AVD Manager" y crea un nuevo dispositivo virtual.
 
 ## Diagrama de despliegue
 
-![Diagrama despligue](https://github.com/darroyo2/PM2023-Entrega4/blob/main/DeploymentDiagram1.jpg)
+![Diagrama despligue](https://github.com/darroyo2/PM2023-Entrega4/blob/main/DeploymentDiagram2.jpg)
 
 ## Requisitos no Funcionales
 
