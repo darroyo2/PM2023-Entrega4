@@ -1,4 +1,6 @@
-# Guía de Instalación y Configuración de Aplicaciones Ionic con Capacitor
+#ENTREGA 4
+
+## Guía de Instalación y Configuración de Aplicaciones Ionic con Capacitor
 
 ## 1. Instalación de Ionic CLI
 
@@ -145,4 +147,19 @@ La eficiencia se relaciona con el rendimiento y la optimización de los recursos
 
 ![Diagrama caso uso](https://github.com/darroyo2/PM2023-Entrega4/blob/main/Casos%20de%20Uso.jpg)
 
+## Descripción de casos de uso
 
+1. **Acceder al sistema (login):**
+   - *Descripción:* Este caso de uso permite a los usuarios autenticarse en la aplicación. Los usuarios ingresarán su nombre de usuario y contraseña para acceder a sus cuentas personales. Si la autenticación es exitosa, se les dará acceso a las funciones y datos relacionados con su perfil.
+
+2. **Cambiar contraseña:**
+   - *Descripción:* Este caso de uso permite a los usuarios cambiar su contraseña actual por una nueva. Los usuarios deberán proporcionar su contraseña actual y su correo electrónico y luego ingresar la nueva contraseña. Después de realizar el cambio, el sistema enviará un mensaje notificando al usuario sobre el éxito o cualquier problema relacionado con el cambio de contraseña.
+
+3. **Mostrar Rutina:**
+   - *Descripción:* Este caso de uso está dirigido a los alumnos y les permite visualizar la rutina de ejercicios asignada. La aplicación mostrará la lista de ejercicios con sus imágenes respectivas.
+   
+4. **Mostrar Ejercicios:**
+   - *Descripción:* Este caso de uso proporciona a los alumnos la capacidad de ver todos los ejercicios disponibles en la aplicación. Puede mostrar una lista completa de ejercicios con sus respectivas imágenes.
+
+5. **Mostrar Integrantes:**
+   - *Descripción:* Este caso de uso permite a los usuarios ver la lista de integrantes del grupo de desarrollo. Puede mostrar información básica sobre cada integrante, como nombre y código. Se mostrará dicho diálogo mediante un botón en el menú superior
