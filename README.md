@@ -111,6 +111,26 @@ Ejecuta el archivo de instalación descargado y sigue el asistente de instalaci�
 
 ## 3. Configuración de Android Studio
 
+## Requisitos no Funcionales
+
+#### 1. Disponibilidad
+La disponibilidad se refiere a la capacidad del sistema para estar siempre accesible y operativo. En el contexto del proyecto, esto implica que los usuarios deben poder acceder a la plataforma en cualquier momento, sin importar la hora.
+
+#### 2. Seguridad
+La seguridad es fundamental para proteger la información confidencial de los usuarios y garantizar la resistencia del sistema ante posibles amenazas como ataques cibernéticos. En la aplicación, nos centramos en la protección de datos personales y aseguramos la integridad de la plataforma contra posibles vulnerabilidades.
+
+#### 3. Calidad
+La calidad se refiere a la eficacia, eficiencia y satisfacción general del usuario con la aplicación. En el contexto de un gimnasio, esto implica que la aplicación debe ofrecer funcionalidades útiles y precisas, proporcionando una experiencia de usuario agradable. Aseguramos que las características cumplan con las expectativas y requisitos de los usuarios.
+
+#### 4. Escalabilidad
+La escalabilidad se refiere a la capacidad del sistema para manejar un aumento en la carga de trabajo o el número de usuarios sin degradación del rendimiento. En una aplicación de gimnasio, la escalabilidad garantiza que la plataforma pueda crecer para admitir un mayor número de usuarios, ya que la demanda puede aumentar con el tiempo.
+
+#### 5. Usabilidad
+La usabilidad se centra en la facilidad de uso y la experiencia del usuario al interactuar con la aplicación. En el caso de la aplicación, garantizamos una interfaz intuitiva y fácil de navegar, facilitando a los usuarios la realización de tareas como programar entrenamientos o acceder a información relevante de manera sencilla.
+
+#### 6. Eficiencia
+La eficiencia se relaciona con el rendimiento y la optimización de los recursos del sistema. En el proyecto, la eficiencia implica un tiempo de carga rápido, procesamiento eficiente de datos y el uso adecuado de la capacidad de almacenamiento para garantizar un rendimiento óptimo.
+
 Abre Android Studio y sigue el asistente de configuración inicial. Esto incluirá la instalación de componentes esenciales, configuración del SDK de Android y la descarga de cualquier actualización disponible.
 
 ## 4. Crear un Dispositivo Virtual
